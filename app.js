@@ -31,3 +31,8 @@ console.log(number);
 // >= sign of greater then and equal too
 // < sign of less then 
 // <= sign of less then and equal too
+
+var num1 =10;
+
+if(num1===10)
+    {console.log("your value is 10"); }
