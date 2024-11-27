@@ -22,3 +22,12 @@ var number =0 ;
 ++number;
 ++number;
 console.log(number);
+
+// If conditions 
+// operators  
+// === sign of equal too 
+// !== sign of not equal too 
+// > sign of greater then 
+// >= sign of greater then and equal too
+// < sign of less then 
+// <= sign of less then and equal too
